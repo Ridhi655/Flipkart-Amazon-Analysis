@@ -8,3 +8,5 @@ Problem Statement: Customer reviews  feedback are crucial for any product in the
 3)Create a Ranking table for each Mobile phone based on each category and overall ranking.  
 Approach: The classical machine learning tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building and Model Testing. Use Natural Language Processing for analysing the reviews.  
 Results: Develop a machine learning model to analyse &amp; calculate the percentage of positive & negative reviews. Model should also result in a total rating score on a scale of 5. 
+
+
